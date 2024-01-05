@@ -1,0 +1,13 @@
+/* Seu CSS existente aqui */
+
+/* Adicione as regras para o modo noturno */
+body.dark-mode {
+    background-color: #333; /* Cor de fundo mais escura para o modo noturno */
+    color: #fff; /* Cor do texto mais clara para melhor contraste */
+}
+
+/* Adicione o estilo para o modo noturno ao chat-container se necessário */
+body.dark-mode .chat-container {
+    background-color: #444; /* Cor de fundo mais escura para o modo noturno no chat-container */
+    /* Outras regras específicas para o modo noturno no chat-container, se necessário */
+}
